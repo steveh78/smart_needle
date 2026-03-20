@@ -42,5 +42,5 @@
 <br>
 
 ## Result
-This project was transferred to Rimscience Co., Ltd.
+This project has completed the technology transfer to Rimscience Co., Ltd.
 [https://www.youtube.com/watch?v=dRLOS2uB078]
