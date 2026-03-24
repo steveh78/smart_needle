@@ -14,7 +14,7 @@
 ## Overview of research and development
 ### 1. Introduction
 - When performing an injection, medical staff locate the injection site by gauging the sensation in their hands and the insertion distance.
-- The sense of hands can be replaced using a force sensor (load cell).
+- The sense of hands can be replaced using a force sensor.
 - The insertion distance can be measured using an encoder.
 
 ### 2. Design of mechanical parts
