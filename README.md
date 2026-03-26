@@ -42,5 +42,9 @@
 <br>
 
 ## Result
-This project has completed the technology transfer to Rimscience Co., Ltd.
+
+https://github.com/user-attachments/assets/0e558c02-0a0a-4173-b8d2-720ee0de70a3
+
+
+- This project has completed the technology transfer to Rimscience Co., Ltd.
 [https://www.youtube.com/watch?v=dRLOS2uB078]
