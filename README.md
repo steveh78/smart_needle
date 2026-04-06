@@ -36,7 +36,7 @@
 
 ### 4. Control program development
 - Control program : Force measurement and motor control, value transfer
-- GUI : Modify the realtimetrack code [https://www.advsofteng.com/doc/cdnetdoc/realtimetrack.htm]
+- GUI : Modify the realtimetrack code <https://www.advsofteng.com/doc/cdnetdoc/realtimetrack.htm>
 <img width="546" height="237" alt="GUI" src="https://github.com/user-attachments/assets/42dd6ee2-4388-4683-9c73-49e429a4df57" />
 
 <br>
